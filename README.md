@@ -151,18 +151,3 @@ Project Link: [https://github.com/Praveenterax/Traffic-sign-Detection-Recognitio
 
 
 
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/Praveenterax/Traffic-sign-Detection-Recognition-Matlab-RandomForest.svg?style=for-the-badge
-[contributors-url]: https://github.com/Praveenterax/Traffic-sign-Detection-Recognition-Matlab-RandomForest/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Praveenterax/Traffic-sign-Detection-Recognition-Matlab-RandomForest.svg?style=for-the-badge
-[forks-url]: https://github.com/Praveenterax/Traffic-sign-Detection-Recognition-Matlab-RandomForest/network/members
-[stars-shield]: https://img.shields.io/github/stars/Praveenterax/Traffic-sign-Detection-Recognition-Matlab-RandomForest.svg?style=for-the-badge
-[stars-url]: https://github.com/Praveenterax/Traffic-sign-Detection-Recognition-Matlab-RandomForest/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Praveenterax/Traffic-sign-Detection-Recognition-Matlab-RandomForest.svg?style=for-the-badge
-[issues-url]: https://github.com/Praveenterax/Traffic-sign-Detection-Recognition-Matlab-RandomForest/issues
-[license-shield]: https://img.shields.io/github/license/Praveenterax/Traffic-sign-Detection-Recognition-Matlab-RandomForest.svg?style=for-the-badge
-[license-url]: https://github.com/Praveenterax/Traffic-sign-Detection-Recognition-Matlab-RandomForest/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/praveendunga
-[product-screenshot]: /result%20images/2.png
